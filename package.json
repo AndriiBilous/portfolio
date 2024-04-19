@@ -1,10 +1,10 @@
 {
-  "name": "vanilla-app-template",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build --base=/portfolio/",
     "preview": "vite preview"
   },
